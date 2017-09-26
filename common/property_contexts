@@ -135,3 +135,7 @@ ctl.vendor.imsrcsservice   u:object_r:ctl_vendor_imsrcsservice_prop:s0
 #crashdata property
 persist.vendor.crash.cnt         u:object_r:crash_prop:s0
 persist.vendor.crash.detect        u:object_r:crash_prop:s0
+
+#wlan driver property
+wlan.driver.ath            u:object_r:wcnss_prop:s0
+wlan.driver.config         u:object_r:wcnss_prop:s0

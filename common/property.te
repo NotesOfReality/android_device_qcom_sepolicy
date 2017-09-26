@@ -137,3 +137,6 @@ type ctl_vendor_imsrcsservice_prop, property_type;
 
 #crash property
 type crash_prop, property_type;
+
+#wcnss property
+type wcnss_prop, property_type;
